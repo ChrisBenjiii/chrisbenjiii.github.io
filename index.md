@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Octocat](istockphoto-1368262606-612x612.jpg)
+![Ocean](istockphoto-1368262606-612x612.jpg)
 
 
 
