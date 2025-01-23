@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-(https://github.githubassets.com/istockphoto-1368262606-612x612.jpg)
+!(https://github.githubassets.com/istockphoto-1368262606-612x612.jpg)
 
 
 
