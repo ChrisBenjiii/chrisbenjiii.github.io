@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-(istockphoto-1368262606-612x612.jpg)
+(https://github.com/ChrisBenjiii/chrisbenjiii.github.io/blob/ff924279d4f602916efca1c4dd1e40716a424d38/istockphoto-1368262606-612x612.jpg)
 
 
 
